@@ -1,0 +1,22 @@
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].csprojResolveAssemblyReference.cache
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook_Tool_Telegram___By_aliilapro__.Frm.Main.resources
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook_Tool_Telegram___By_aliilapro__.Properties.Resources.resources
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].csproj.GenerateResource.Cache
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\WebHook Tool-Telegram [ By aliilapro ].exe.config
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\WebHook Tool-Telegram [ By aliilapro ].exe
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\WebHook Tool-Telegram [ By aliilapro ].pdb
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\Newtonsoft.Json.dll
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\Newtonsoft.Json.xml
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].exe
+c:\users\mr.aliilapro\documents\visual studio 2017\Projects\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].pdb
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\WebHook Tool-Telegram [ By aliilapro ].exe.config
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\WebHook Tool-Telegram [ By aliilapro ].exe
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\WebHook Tool-Telegram [ By aliilapro ].pdb
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\Newtonsoft.Json.dll
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\bin\Debug\Newtonsoft.Json.xml
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].csprojResolveAssemblyReference.cache
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook_Tool_Telegram___By_aliilapro__.Frm.Main.resources
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook_Tool_Telegram___By_aliilapro__.Properties.Resources.resources
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].csproj.GenerateResource.Cache
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].exe
+L:\Tool Visual Studio\Z-New Source\WebHook Tool-Telegram [ By aliilapro ]\WebHook Tool-Telegram [ By aliilapro ]\obj\Debug\WebHook Tool-Telegram [ By aliilapro ].pdb
